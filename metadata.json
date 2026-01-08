@@ -1,0 +1,5 @@
+{
+  "name": "TelcoInsight - IMSI & Area Quality Analyzer",
+  "description": "A professional-grade telecom network engineering dashboard for analyzing Area KPIs and individual Subscriber (IMSI) QoE with root cause analysis logic.",
+  "requestFramePermissions": []
+}
